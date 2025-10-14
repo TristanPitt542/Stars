@@ -5,4 +5,4 @@ control:
 W/S -> speed+/-
 E/D -> eyedistance-/+
 
-![image](https://github.com/user-attachments/assets/251e22d4-a9fc-4089-9cf8-f81c537316ad)
+![Adobe Express - 2025-10-14 06-07-52](https://github.com/user-attachments/assets/9eb2c062-ba4b-4cfe-b76e-6efb28286402)
